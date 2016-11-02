@@ -1,0 +1,2 @@
+# Ignore all CMAKELists.txt files in all subdirectories
+*/*.txt
